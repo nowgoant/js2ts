@@ -1,0 +1,19 @@
+{
+  "name": "js2ts",
+  "version": "1.0.0",
+  "description": "js2ts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nowgoant/js2ts.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nowgoant/js2ts/issues"
+  },
+  "homepage": "https://github.com/nowgoant/js2ts#readme"
+}
